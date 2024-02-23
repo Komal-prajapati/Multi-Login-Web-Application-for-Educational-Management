@@ -272,14 +272,14 @@ div.swal2-html-container {
   width: 100%;
   height: 100vh;
   background-position: center;
-  background-color: #4d66db;
+  background-color: white;
   position: relative;
   @media(max-width:767px) {
     height: 450px;
   }
 }
 .teacher-login-right-sec{
-  background-image: url("/images/teacher-login-bg.png");
+  background-image: url("/images/teacher-login-bg.svg");
 }
 .admin-login-right-sec{
   background-image: url("/images/admin-bg.jpg");
